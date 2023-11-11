@@ -1,13 +1,13 @@
-A higher Alowence
+# A Higher Allowance
 
-a higher alowence? 
-i think theres a lesson to be taught.
+A higher allowance?  
+I think theres a lesson to be taught.  
 
-a higher alowence?
-definetly not.
+A higher allowance?  
+Definetly not.
 
-a higher alowence?
-your making me mad
+A higher allowance?  
+Your making me mad!
 
-a higher alowence?
+A higher allowance?  
 SHUT UP IM YOUR DAD!

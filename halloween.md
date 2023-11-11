@@ -1,10 +1,10 @@
-Halloween
+# Halloween
 
-"Ding Dong" at the door 
-you slowley creep across the floor
+"Ding Dong" at the door,   
+you slowly creep across the floor.
 
-you peek out thruogh the keyhole round 
-and see a mummy bandages bound
+You peek out through the keyhole round,  
+and see a mummy bandages bound.
 
-you leep back but then it speeks 
-and candy is all that it seeks
+You leep back but then it speaks,  
+and candy is all that it seeks.

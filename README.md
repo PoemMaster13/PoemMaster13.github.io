@@ -1,7 +1,7 @@
-Welcome!
+# Welcome!  
 I hope you enjoy my poems!
 
-# Table of Contents
+Table of Contents
 
 [Halloween](halloween.md)
 
