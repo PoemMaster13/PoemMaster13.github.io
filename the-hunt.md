@@ -1,8 +1,8 @@
-The Hunt
+# The Hunt
 
-wolf slinking
-wolf sliding
-wolf stalking
-wolf leaping
-wolf tearing 
-wolf eating
+Wolf slinking  
+Wolf sliding  
+Wolf stalking  
+Wolf leaping  
+Wolf tearing   
+Wolf eating

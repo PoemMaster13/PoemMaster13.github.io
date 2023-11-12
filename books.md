@@ -1,7 +1,7 @@
-Books
+# Books
 
-books hold authers lives
-some are true some are lies
+Books hold authors lives,  
+some are true some are lies.
 
-books make you dream
-books make you hope
+Books make you dream,  
+books make you hope.
