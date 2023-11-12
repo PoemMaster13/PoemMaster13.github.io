@@ -7,6 +7,8 @@ Table of Contents
 
 [The Hunt](the-hunt.md)
 
-[A Higher Alowence](a-higher-alowence.md)
+[A Higher Allowance](a-higher-allowance.md)
 
 [Books](books.md)
+
+[Fire](fire.md)

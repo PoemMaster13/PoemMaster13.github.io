@@ -10,4 +10,4 @@ A higher allowance?
 Your making me mad!
 
 A higher allowance?  
-SHUT UP IM YOUR DAD!
+SHUT UP I'M YOUR DAD!
